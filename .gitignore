@@ -1,0 +1,6 @@
+```
+# Environnement virtuel
+teliya_env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
