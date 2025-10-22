@@ -1,0 +1,26 @@
+{
+    "model_name": "XGBoost",
+    "accuracy": 0.37555555555555553,
+    "features": [
+        "ClaimAmount",
+        "PatientAge",
+        "PatientGender",
+        "ProviderSpecialty",
+        "PatientIncome",
+        "PatientMaritalStatus",
+        "PatientEmploymentStatus",
+        "ProviderLocation",
+        "ClaimType",
+        "ClaimSubmissionMethod",
+        "ClaimYear",
+        "ClaimMonth",
+        "ClaimDayOfWeek"
+    ],
+    "target_classes": [
+        "Approved",
+        "Denied",
+        "Pending"
+    ],
+    "mlflow_run_id": "adf46e5ae05d44bd91fe7169914b84b2",
+    "date_trained": "2025-10-22 21:58:42"
+}

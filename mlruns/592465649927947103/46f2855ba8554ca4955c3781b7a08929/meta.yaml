@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL%207430/OneDrive/Bureau/TELYA/ML_ENG_Python/Toy_Project/mlruns/592465649927947103/46f2855ba8554ca4955c3781b7a08929/artifacts
+end_time: 1761170257326
+entry_point_name: ''
+experiment_id: '592465649927947103'
+lifecycle_stage: active
+run_id: 46f2855ba8554ca4955c3781b7a08929
+run_name: Random Forest_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761170211777
+status: 3
+tags: []
+user_id: DELL 7430

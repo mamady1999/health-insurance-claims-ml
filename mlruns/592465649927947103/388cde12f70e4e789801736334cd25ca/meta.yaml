@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DELL%207430/OneDrive/Bureau/TELYA/ML_ENG_Python/Toy_Project/mlruns/592465649927947103/388cde12f70e4e789801736334cd25ca/artifacts
+end_time: 1761170274609
+entry_point_name: ''
+experiment_id: '592465649927947103'
+lifecycle_stage: active
+run_id: 388cde12f70e4e789801736334cd25ca
+run_name: XGBoost_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761170257355
+status: 3
+tags: []
+user_id: DELL 7430

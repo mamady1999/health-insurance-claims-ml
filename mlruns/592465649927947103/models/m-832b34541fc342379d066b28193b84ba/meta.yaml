@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DELL%207430/OneDrive/Bureau/TELYA/ML_ENG_Python/Toy_Project/mlruns/592465649927947103/models/m-832b34541fc342379d066b28193b84ba/artifacts
+creation_timestamp: 1761170247366
+experiment_id: '592465649927947103'
+last_updated_timestamp: 1761170257287
+model_id: m-832b34541fc342379d066b28193b84ba
+model_type: null
+name: model
+source_run_id: 46f2855ba8554ca4955c3781b7a08929
+status: 2
+status_message: null

@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/DELL%207430/OneDrive/Bureau/TELYA/ML_ENG_Python/Toy_Project/mlruns/592465649927947103/models/m-074d1fee5a3446b2bcf331dca0936edb/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.0
+model_id: m-074d1fee5a3446b2bcf331dca0936edb
+model_size_bytes: 2070207
+model_uuid: m-074d1fee5a3446b2bcf331dca0936edb
+prompts: null
+run_id: 0b00f4e788bc4997a5f7132f0b57a45d
+utc_time_created: '2025-10-22 21:58:37.204147'
